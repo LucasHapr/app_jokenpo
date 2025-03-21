@@ -4,7 +4,7 @@ Este é um aplicativo simples de JokenPo (Pedra, Papel e Tesoura) desenvolvido e
 
 ## 🎥 Demonstração
 
-![Demonstração do App](https://raw.githubusercontent.com/LucasHapr/app_jokenpo/main/videos/apresentacaoApp.gif)
+![Demonstração do App](videos/apresentacaoApp.gif)
 
 ## 📦 Funcionalidades
 
